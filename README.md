@@ -10,8 +10,10 @@ This is a personal learning archive where I document my journey of mastering the
 This repository serves as my **learning log and code collection** for everything related to C.  
 Here, I’ll be writing, organizing, and pushing C programs that I create while studying, practicing, and experimenting with.
 
+## 📂 Repository Contents
 
 ## 🏷️ License
+
 
 This repository is licensed under the MIT License, meaning you can freely explore, copy, and learn from the code — but please provide attribution where appropriate.
 
