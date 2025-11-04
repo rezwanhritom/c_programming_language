@@ -12,6 +12,15 @@ Here, I’ll be writing, organizing, and pushing C programs that I create while 
 
 ## 📂 Repository Contents
 
+| File Name | Description |
+|------------|--------------|
+| `01_basics_of_c.c` | Demonstrates the fundamental structure of a C program including `main()` and `printf()`. |
+| `02_variables_and_datatypes.c` | Covers all major variable types in C — int, float, double, char, and string — and how to print them. |
+| `03_conditionals_in_c.c` | Demonstrates `if`, `else if`, `else`, and `switch` conditionals with tweak examples. |
+| `04_loops_in_c.c` | Shows `for`, `while`, and `do-while` loops and how changing conditions affects behavior. |
+| `05_functions_in_c.c` | Explains how to declare, define, and call functions in C, including returning and non-returning types. |
+
+
 ## 🏷️ License
 
 
