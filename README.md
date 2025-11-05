@@ -19,6 +19,12 @@ Here, I’ll be writing, organizing, and pushing C programs that I create while 
 | `03_conditionals_in_c.c` | Demonstrates `if`, `else if`, `else`, and `switch` conditionals with tweak examples. |
 | `04_loops_in_c.c` | Shows `for`, `while`, and `do-while` loops and how changing conditions affects behavior. |
 | `05_functions_in_c.c` | Explains how to declare, define, and call functions in C, including returning and non-returning types. |
+| `06_input_in_c.c` | Shows how to take user input for all major data types (`int`, `float`, `double`, `char`, `string`). |
+| `07_arrays_in_c.c` | Demonstrates static and dynamic array creation and how to access and print elements. |
+| `08_strings_in_c.c` | Covers string manipulation using functions like `strcat`, `strlen`, `strcpy`, and `strcmp`. |
+| `09_pointers_in_c.c` | Introduces pointers, memory addresses, dereferencing, and modifying values via pointers. |
+| `10_structures_in_c.c` | Explains `struct` usage to create custom data types and store multiple related fields. |
+| `11_file_handling_in_c.c` | Demonstrates file operations like writing to and reading from text files using `FILE *`. |
 
 
 ## 🏷️ License
