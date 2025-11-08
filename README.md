@@ -25,6 +25,12 @@ Here, I’ll be writing, organizing, and pushing C programs that I create while 
 | `09_pointers_in_c.c` | Introduces pointers, memory addresses, dereferencing, and modifying values via pointers. |
 | `10_structures_in_c.c` | Explains `struct` usage to create custom data types and store multiple related fields. |
 | `11_file_handling_in_c.c` | Demonstrates file operations like writing to and reading from text files using `FILE *`. |
+| `12_dynamic_memory_allocation.c` | Demonstrates dynamic memory allocation using `malloc`, `calloc`, `realloc`, and `free` for flexible arrays. |
+| `13_recursion_in_c.c` | Shows how recursive functions work using factorial and Fibonacci examples. |
+| `14_command_line_arguments.c` | Explains how to handle command-line arguments using `argc` and `argv`. |
+| `15_enums_in_c.c` | Introduces `enum` for creating readable named constants. |
+| `16_typedef_in_c.c` | Explains how `typedef` can simplify complex type definitions for cleaner code. |
+
 
 
 ## 🏷️ License
