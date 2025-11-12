@@ -30,8 +30,11 @@ Here, I’ll be writing, organizing, and pushing C programs that I create while 
 | `14_command_line_arguments.c` | Explains how to handle command-line arguments using `argc` and `argv`. |
 | `15_enums_in_c.c` | Introduces `enum` for creating readable named constants. |
 | `16_typedef_in_c.c` | Explains how `typedef` can simplify complex type definitions for cleaner code. |
-
-
+| `17_macros_and_preprocessor.c` | Shows how to use macros and preprocessor directives like `#define` and `#include`. |
+| `18_header_file_usage.c` | Demonstrates how to create and include custom header files (`helper.h`). |
+| `19_storage_classes.c` | Explains storage classes (`auto`, `register`, `static`, `extern`) and their lifetime/scope. |
+| `20_bitwise_operators.c` | Covers bitwise operations (`&`, `|`, `^`, `~`, `<<`, `>>`) used in low-level tasks. |
+| `21_error_handling_in_c.c` | Demonstrates error handling using `errno`, `perror`, and `strerror()` for file operations. |
 
 ## 🏷️ License
 
