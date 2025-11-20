@@ -35,6 +35,13 @@ Here, I’ll be writing, organizing, and pushing C programs that I create while 
 | `19_storage_classes.c` | Explains storage classes (`auto`, `register`, `static`, `extern`) and their lifetime/scope. |
 | `20_bitwise_operators.c` | Covers bitwise operations (`&`, `|`, `^`, `~`, `<<`, `>>`) used in low-level tasks. |
 | `21_error_handling_in_c.c` | Demonstrates error handling using `errno`, `perror`, and `strerror()` for file operations. |
+| `22_linked_list_basic.c` | Basic singly linked list with insert and display operations. |
+| `23_stack_using_array.c` | Stack implementation using arrays with push/pop/peek. |
+| `24_queue_using_array.c` | Queue implementation using arrays with enqueue/dequeue. |
+| `25_enum_switch_menu.c` | Demonstrates menu systems using enums and switch-case. |
+| `26_time_and_date.c` | Uses `<time.h>` to display current time, date, and components. |
+| `27_math_library_usage.c` | Demonstrates common math functions (`sqrt`, `pow`, trigonometric functions). |
+
 
 ## 🏷️ License
 
