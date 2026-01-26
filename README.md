@@ -1,16 +1,22 @@
-# 🧠 C Programming Language Journey
+# 🧠 C Programming Language
 
-Welcome to my **C Programming Language** repository!  
+Welcome to my **C Programming Language** repository!
+
 This is a personal learning archive where I document my journey of mastering the **C programming language** — from the basics of syntax to advanced programming concepts.
 
 ---
 
 ## 📘 About This Repository
 
-This repository serves as my **learning log and code collection** for everything related to C.  
+This repository serves as my **learning log and code collection** for everything related to C. 
+
 Here, I’ll be writing, organizing, and pushing C programs that I create while studying, practicing, and experimenting with.
 
+---
+
 ## 📂 Repository Contents
+
+### Basics of C
 
 | File Name | Description |
 |------------|--------------|
@@ -42,14 +48,20 @@ Here, I’ll be writing, organizing, and pushing C programs that I create while 
 | `26_time_and_date.c` | Uses `<time.h>` to display current time, date, and components. |
 | `27_math_library_usage.c` | Demonstrates common math functions (`sqrt`, `pow`, trigonometric functions). |
 
+---
 
-## 🏷️ License
+## 🏷️ Purpose
 
+This repository is a personal learning log.
 
-This repository is licensed under the MIT License, meaning you can freely explore, copy, and learn from the code — but please provide attribution where appropriate.
+All code and notes are shared for educational and reference purposes only.
+
+---
 
 ## 💬 Connect
 
 If you find this repository helpful or want to discuss C programming, feel free to connect or open an issue/discussion.
 
 Created and maintained by: [Rezwanur Rahman](https://github.com/rezwanhritom)
+
+---
